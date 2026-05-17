@@ -1,6 +1,6 @@
-# 💾 Simulador de Administración de Memoria - First Fit
+# Simulador de Administración de Memoria - First Fit
 
-## 📌 Descripción
+## Descripción
 
 Este proyecto simula la administración de memoria de un sistema operativo utilizando el algoritmo **First Fit (Primer Ajuste)** y **partición dinámica**.  
 
@@ -8,7 +8,7 @@ La aplicación fue desarrollada en **Java con Swing**, permitiendo visualizar gr
 
 ---
 
-# 🚀 Características
+# Características
 
 ✅ Algoritmo First Fit  
 ✅ Partición dinámica real  
@@ -18,16 +18,12 @@ La aplicación fue desarrollada en **Java con Swing**, permitiendo visualizar gr
 ✅ Porcentaje de uso de memoria  
 ✅ Estadísticas en tiempo real  
 ✅ Historial de procesos  
-✅ Interfaz gráfica moderna  
-✅ Dark Mode 🌙  
-✅ Colores modernos estilo Windows 11/macOS  
-✅ Reinicio de simulación  
-✅ Menú superior  
-✅ Visualización de bloques libres y ocupados  
+✅ Interfaz gráfica
+✅ Visualización de bloques libres y ocupados 
 
 ---
 
-# 🖥️ Tecnologías utilizadas
+# Tecnologías utilizadas
 
 - Java
 - Java Swing
@@ -35,17 +31,17 @@ La aplicación fue desarrollada en **Java con Swing**, permitiendo visualizar gr
 
 ---
 
-# ⚙️ Funcionamiento
+# Funcionamiento
 
 La simulación genera bloques de memoria aleatorios y permite crear procesos indicando el tamaño de memoria requerido.
 
 El sistema utiliza:
 
-## 🧠 First Fit
+## First Fit
 
 Busca el primer bloque libre con espacio suficiente para almacenar el proceso.
 
-## 📦 Partición Dinámica
+## Partición Dinámica
 
 Si un bloque libre es más grande que el proceso solicitado, el bloque se divide automáticamente:
 
