@@ -55,7 +55,7 @@ Resultado:
 [40 MB ocupado] [60 MB libre]
 ```
 
-# 📷 Capturas del sistema
+# Capturas del sistema
 
 ## 🟢 Memoria inicial
 
