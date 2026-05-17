@@ -59,16 +59,19 @@ Resultado:
 
 ## 🟢 Memoria inicial
 
-![Inicio](img/inicio.png)
+<img width="1470" height="743" alt="image" src="https://github.com/user-attachments/assets/a27f70db-b936-4432-adc8-a5247f13d864" />
+
 
 ---
 
 ## 🔴 Procesos agregados
 
-![Procesos](img/procesos.png)
+<img width="1455" height="711" alt="image" src="https://github.com/user-attachments/assets/113247f4-def2-42ea-89e6-6ad4da61d991" />
+
 
 ---
 
 ## ⚠️ Error por falta de espacio
 
-![Error](img/error.png)
+<img width="1455" height="727" alt="image" src="https://github.com/user-attachments/assets/5427c04c-6d10-490f-80a9-c7ac001b665c" />
+
