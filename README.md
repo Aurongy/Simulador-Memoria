@@ -54,3 +54,21 @@ Proceso: 40 MB
 Resultado:
 [40 MB ocupado] [60 MB libre]
 ```
+
+# 📷 Capturas del sistema
+
+## 🟢 Memoria inicial
+
+![Inicio](img/inicio.png)
+
+---
+
+## 🔴 Procesos agregados
+
+![Procesos](img/procesos.png)
+
+---
+
+## ⚠️ Error por falta de espacio
+
+![Error](img/error.png)
